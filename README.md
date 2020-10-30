@@ -17,6 +17,8 @@ This project was inspired by a few hackathon designs I've seen this year while m
 
 ## Try it Yourself
 
+Update any of these `FirstViewController`, `SecondViewController`, or `ThirdViewController` and add more than just a different background color.
+
 ```swift
 class FirstViewController: UIViewController {
     
@@ -30,10 +32,14 @@ class FirstViewController: UIViewController {
 
 ```
 
-## Help Improve This Project!
+## Help Improve This Project! Make a PR
 
 * **Add Documentation** - for publc classes/methods.  See [Swift Documentation](https://nshipster.com/swift-documentation/)
 * **Create an App** - show me what you can make with my start project!
+
+## Need iOS Help?
+
+* Open an Issue and I'll give you feedback to get you unstuck 👍
 
 ## Prerequisites
 
