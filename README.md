@@ -35,11 +35,11 @@ class FirstViewController: UIViewController {
 ## Help Improve This Project! Make a PR
 
 * **Add Documentation** - for publc classes/methods.  See [Swift Documentation](https://nshipster.com/swift-documentation/)
-* **Create an App** - show me what you can make with my start project!
+* **Create an App** - show me what you can make with my starter project!
 
 ## Need iOS Help?
 
-* Open an Issue and I'll give you feedback to get you unstuck 👍
+* Open an issue above ^ and I'll give you feedback to get you unstuck 👍
 
 ## Prerequisites
 
